@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+      <head>    
+            <title> Song Wrapped </title>
+            
+            <meta charset="UTF-8">
+            <meta name="author" content="Jhielou Marie S. Mamaradlo">
+            <meta name="keywords" content="uno">
+            <meta name="date-submitted" content="12-09-2024">  
+     
+	    <link rel="icon" href="icon.png" types="image/gif">
+			
+     </head>
+     <body> 
+           <div>	   
+             <h1> Me :P <#</h1>
+	     <img src="rie.png" alt=" Rie a someone"  height="150px">
+             <p> Your average music enjoyer </p>
+	   </div>
+	   <span>	   
+		   <h3> TOP 5 ARTISTS AN BANDS FT. FAV SONGS : </h3>
+		   <ul>
+		      <li> Frank Ocean - Chanel </li>
+			  <li>  Daniel Caesar- Transform </li>
+			  <li> Denise Julia - Butterflies </li>
+			  <li> Ariana Grande - Thank you Next </li>
+			  <li> Brent Faiyaz- All Mine </li>
+		   </ul>		   
+	   </span>
+	   <span>
+	         <h3> Top 3 songs I'll dedicate to someone :)</h3>
+	         <img src="song1.pnng"  height="200px">
+	         <img src="song2.png"  height="200px">
+	         <img src="song3.png"  height="200px">
+	   </span>
+			  
+	      <p> Copyright &#169 : Jhielou Marie Suarez Mamaradlo 9-Cesium. </p>		   
+     </body>
+</html>
+	 

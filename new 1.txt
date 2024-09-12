@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	
+  <head>
+        <title>  Music </title>
+    
+		<meta charset="UTF-8">
+    	<meta name="author" content="Jhielou Marie S. Mamaradlo">
+		<meta name="keywords" content="uno">
+    	<meta name="date-submitted" content="12-09-2024">
+  </head>
+
+     <body>
+        <div>
+		
+		<h1> Rie's Profile </h1>
+		<p>This is a collection of the songs I love :) </p>
+		<a href = sample.html><br> Click this to know my music taste we might vibe ;) </a>
+	
+	</div>
+    </body>
+
+</html>
